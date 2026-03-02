@@ -22,6 +22,7 @@ public class StudentScore {
 		}else {
 			System.out.println("Grade: Fail");
 		}
+		sc.close();
 		
 		
 	}

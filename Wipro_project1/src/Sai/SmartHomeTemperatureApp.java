@@ -5,7 +5,7 @@ public class SmartHomeTemperatureApp {
 	public static void main(String[] args)
 	{
 		// Store room temperature(sensor gives double)
-ArrayList<Double>temperature = new ArrayList();
+ArrayList<Double>temperature = new ArrayList<>();
  
 //Autoboxing: double->Double
 temperature.add(26.8);

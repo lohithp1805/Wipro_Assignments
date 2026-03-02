@@ -8,7 +8,7 @@ public class WeatherAnalyzer {
 		Scanner sc=new Scanner(System.in);
 		float temp=sc.nextFloat();
 		boolean isHot=false;
-		int threshhold=sc.nextInt();
+//		int threshhold=sc.nextInt();
 		sc.nextLine();
 		String city=sc.nextLine();
 		if (temp>30) {

@@ -6,7 +6,7 @@ import java.util.LinkedList;
 public class PatientManagement {
 public static void main(String[] args)
 {
-LinkedList<String>patients=new LinkedList();
+LinkedList<String>patients=new LinkedList<>();
 
 patients.add("lohith");
 patients.add("joshith");

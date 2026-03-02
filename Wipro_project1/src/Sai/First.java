@@ -1,5 +1,5 @@
 package Sai;
-import java.util.*;
+//import java.util.*;
 import java.util.Scanner;
 
 public class First {
@@ -21,6 +21,7 @@ public class First {
 				
 			}
 		}
+		sc.close();
 
 	}
 
